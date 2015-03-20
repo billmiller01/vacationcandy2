@@ -1,0 +1,42 @@
+
+#main {
+	color: #1E90FF;
+	font-family: Georgia;
+	margin: 0 auto;
+	position: relative;
+	right: 0px;
+
+}
+html {
+	background-color: #F0F0F0;
+}
+img {
+	height: 100px;
+	float: left;
+	margin: 0 auto;
+
+}
+
+#chad {
+	position: absolute;
+	top: 200px;
+}
+
+
+
+#footer {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	height: 40px;
+	background-color: white;
+	width: 100%;
+}
+.brad {
+	color: blue;
+	float: left;
+	margin: 1em;
+}
+.content {
+	margin: 1em;
+}
